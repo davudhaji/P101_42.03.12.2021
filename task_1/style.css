@@ -1,0 +1,28 @@
+.bor{
+    margin: 15%;
+    padding: 10%;
+    box-shadow: 15px; 
+}
+.area{
+    width: 50%;
+}
+
+.default-btn{
+    border:none;
+    position:relative;
+    display:inline-block;
+    text-align:center;
+    overflow:hidden;
+    z-index:1;
+    color:#fff;
+    background-color:#ff612f;
+    -webkit-transition:.5s;
+    transition:.5s;
+    border-radius:5px;
+    font-weight:500;
+    font-size:15px;
+    padding-left:50px;
+    padding-right:25px;
+    padding-top:13px;
+    padding-bottom:13px
+  }
